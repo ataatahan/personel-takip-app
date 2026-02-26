@@ -54,7 +54,7 @@ npm start
 
 🌐 Canlı Demo
 Netlify üzerinde yayınlanan proje:
-👉 Personel Takip Uygulaması (personel-takip-app.netlify.app in Bing)
+👉 Personel Takip Uygulaması (https://cool-tapioca-2e11f7.netlify.app)
 
 📌 Proje Çıktıları
 - HTML, CSS ve Javascript temelleri uygulandı
